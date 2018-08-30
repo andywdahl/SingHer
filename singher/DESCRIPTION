@@ -1,0 +1,9 @@
+Package: singher
+Type: Package
+Title: SingHer
+Version: 1.0
+Date: 2014-10-03
+Author: Andy Dahl
+Maintainer: Andy Dahl <andywdahl@gmail.com>
+Description: Singleton Heritability Estimation.
+License: GPL-3

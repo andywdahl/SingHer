@@ -1,0 +1,3 @@
+eigen_lmm				Fit a standard GREML model
+h2_fxn          Evaluate h2 from SingHer parameters
+SingHer         Fit singleton-based heritability
